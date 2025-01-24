@@ -1,0 +1,1 @@
+export {default as ticket} from './resource/ticket'
